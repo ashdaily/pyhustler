@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyhustler-ashdaily",
-    version="0.0.1",
+    version="0.3.0",
     author="Ashish Singh Bardhan",
     author_email="ashtokyo31@gmail.com",
     description="Useful tools for daily python/django hustles",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/ashdaily/monster",
+    url="https://github.com/ashdaily/pyhustler",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

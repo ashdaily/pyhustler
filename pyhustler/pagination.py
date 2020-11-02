@@ -1,8 +1,11 @@
+__all__ = ["PaginationMixin"]
+
+
 class PaginationMixin(object):
     """
     A pagination mixin for rest api implemented with APIView
     """
-    
+
     @property
     def paginator(self):
         """
