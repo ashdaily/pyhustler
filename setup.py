@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyhustler-ashdaily",
-    version="0.3.0",
+    version="0.4.0",
     author="Ashish Singh Bardhan",
     author_email="ashtokyo31@gmail.com",
     description="Useful tools for daily python/django hustles",
